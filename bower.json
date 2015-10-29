@@ -1,0 +1,22 @@
+{
+  "name": "Angular KeyCode",
+  "description": "A Service for codes of keyboard events",
+  "main": "angular-keyboard.js",
+  "authors": [
+    "Jullierme Barros"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "AngularJs",
+    "Service"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "angular-keycode",
+  "version": "1.0.0",
+  "description": "A Service for codes of keyboard events",
+  "main": "angular-keyboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AngularJs",
+    "Service"
+  ],
+  "author": "Jullierme Barros",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "^0.10.0"
+  }
+}
