@@ -1,9 +1,11 @@
 {
-  "name": "Angular KeyCode",
+  "name": "angular-keycode",
+  "version": "1.0.0",
   "description": "A Service for codes of keyboard events",
   "main": "angular-keyboard.js",
+  "homepage": "https://github.com/jullierme/angular-keycode",
   "authors": [
-    "Jullierme Barros"
+    "Jullierme Barros <julliermebarros@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
