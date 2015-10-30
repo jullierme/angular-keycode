@@ -8,25 +8,35 @@ A Service for codes of keyboard events
 Installation
 -------------
 
-```$batch
+### bower
+
+```shell
+# To install latest release
+bower install angular-keycode
+
+
+# To install latest release and update bower.json
 bower install angular-keycode --save
 ```
 
+> Please note that Angular KeyCode requires **Angular 1.2.x** or higher.
+
+
 Registrer
 -------------
-```
+```js
 angular.module('myApp',['angular-keycode']);
 ```
 
 Import
 -------------
-```
+```html
 <script src="bower_components/angular-keycode/angular-keyboard.min.js"></script>
 ```
 
-Use
+Using
 -------------
-```
+```js
 (function(){
 	'use strict';
 
