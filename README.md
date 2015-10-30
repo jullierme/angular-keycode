@@ -92,8 +92,10 @@ KeyCode.F1
 KeyCode.F2
 KeyCode.F3
 
-[MORE...](https://github.com/jullierme/angular-keycode/blob/master/angular-keyboard.js)
 ```
+
+[MORE...](https://github.com/jullierme/angular-keycode/blob/master/angular-keyboard.js)
+
 
 LICENCE
 -------------
