@@ -1,10 +1,11 @@
+[![Bower](https://img.shields.io/bower/v/angular-keycode.svg)](http://bower.io/search/?q=angular-keycode)
+[![Join the chat at https://gitter.im/jullierme/angular-keycode](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jullierme/angular-keycode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 Magic Numbers Never \o/
 ===================
 
 A Service for codes of keyboard events
-
-[![Bower](https://img.shields.io/bower/v/bootstrap.svg?style=plastic)](https://github.com/jullierme/angular-keycode)
 
 Installation
 -------------
