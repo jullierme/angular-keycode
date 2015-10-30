@@ -5,7 +5,9 @@
 Magic Numbers Never \o/
 ===================
 
-A Service for codes of keyboard events
+A Service for codes of keyboard events.
+
+Less than 2 kb minified
 
 Installation
 -------------
@@ -90,7 +92,7 @@ KeyCode.F1
 KeyCode.F2
 KeyCode.F3
 
-MORE...
+[MORE...](https://github.com/jullierme/angular-keycode/blob/master/angular-keyboard.js)
 ```
 
 LICENCE
