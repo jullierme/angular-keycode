@@ -4,6 +4,7 @@ Magic Numbers Never \o/
 
 A Service for codes of keyboard events
 
+[![Bower](https://img.shields.io/bower/v/bootstrap.svg?style=plastic)](https://github.com/jullierme/angular-keycode)
 
 Installation
 -------------
