@@ -48,17 +48,49 @@ Using
 		var vm = this;
 		vm.onKeydown = onKeydown;
 
+        //wrong
 		function onKeydown($event){
 			var code = $event.which || $event.keyCode;
 
-			if(code === KeyCode.ENTER){
+			if(code === 13){//magic number detected
 				...do
 			}
 		}
 
+        //correct
+		function onKeydown($event){
+            var code = $event.which || $event.keyCode;
+
+            if(code === KeyCode.ENTER){
+                ...do
+            }
+        }
+
 	}
 })();
 
+```
+
+Examples
+------------
+
+```js
+KeyCode.BACKSPACE
+KeyCode.TAB
+KeyCode.ENTER
+
+KeyCode.A
+KeyCode.B
+KeyCode.C
+
+KeyCode.NUMPAD_8
+KeyCode.NUMPAD_9
+
+KeyCode.F1
+KeyCode.F2
+KeyCode.F3
+
+MORE...
 ```
 
 LICENCE
