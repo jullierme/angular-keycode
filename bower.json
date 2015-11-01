@@ -1,7 +1,7 @@
 {
   "name": "angular-keycode",
   "description": "A Service for codes of keyboard events",
-  "main": "angular-keyboard.js",
+  "main": "angular-keycode.js",
   "homepage": "https://github.com/jullierme/angular-keycode",
   "authors": [
     "Jullierme Barros <julliermebarros@gmail.com>"

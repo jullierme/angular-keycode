@@ -8,7 +8,7 @@
             uglify: {
                 keycode: {
                     files: {
-                        'angular-keyboard.min.js': ['angular-keyboard.js']
+                        'angular-keycode.min.js': ['angular-keycode.js']
                     }
                 }
             }

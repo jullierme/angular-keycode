@@ -35,7 +35,7 @@ angular.module('myApp',['angular-keycode']);
 Import
 -------------
 ```html
-<script src="bower_components/angular-keycode/angular-keyboard.min.js"></script>
+<script src="bower_components/angular-keycode/angular-keycode.min.js"></script>
 ```
 
 Using
@@ -94,7 +94,7 @@ KeyCode.F3
 
 ```
 
-[MORE...](https://github.com/jullierme/angular-keycode/blob/master/angular-keyboard.js)
+[MORE...](https://github.com/jullierme/angular-keycode/blob/master/angular-keycode.js)
 
 
 LICENCE
