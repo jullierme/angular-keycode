@@ -1,6 +1,6 @@
 {
   "name": "angular-keycode",
-  "description": "A Service for codes of keyboard events",
+  "description": "A code service of keyboard events",
   "main": "angular-keycode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

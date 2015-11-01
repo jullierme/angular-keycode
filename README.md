@@ -5,7 +5,7 @@
 Magic Numbers Never \o/
 ===================
 
-A Service for codes of keyboard events.
+A code service of keyboard events
 
 Less than 2 kb minified
 
