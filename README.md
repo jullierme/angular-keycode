@@ -2,7 +2,7 @@
 [![Join the chat at https://gitter.im/jullierme/angular-keycode](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jullierme/angular-keycode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-Magic Numbers Never \o/
+No More Magic Numbers \o/
 ===================
 
 A code service of keyboard events
