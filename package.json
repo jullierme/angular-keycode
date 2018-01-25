@@ -1,5 +1,6 @@
 {
   "name": "angular-keycode",
+  "version": "1.0.6",
   "description": "A code service of keyboard events",
   "main": "angular-keycode.js",
   "scripts": {
